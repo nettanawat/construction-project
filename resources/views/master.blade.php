@@ -8,16 +8,18 @@
     <link href="{!! asset('css/lightbox.css') !!}" rel="stylesheet" type="text/css">
 
 
+    {{--test--}}
+
 </head>
 <body>
-
+{{--hhhh--}}
 {{--<div class="container" style="background-color: #bce8f1">--}}
     <div class="row">
         <img class="col s2" src="{!! asset('images/logo_water.jpg') !!}" style="max-width: 180px">
         <div class="col s10 titlehead text-center ">
-            <p class="col s12" style="color: #730073; font-size: 25px;">ผ่ายก่อสร้างที่ ๒ สำนักงานก่อสร้างชลประทานที่ ๒ กองพัฒนาแหล่งน้ำขนาดกลาง</p>
-            <h1 class="col s12" style="color: #730073; font-size: 45px; margin-top: -10px"><strong>กรมชลประทาน กระทรวงเกษตรและสหกรณ์</strong></h1>
-
+            <p class="col s12" style="color: #730073; font-size: 25px;">ฝ่ายก่อสร้างที่ ๒ สำนักงานก่อสร้างชลประทานที่ ๒</p>
+            <h2 class="col s12" style="color: #730073; font-size: 30px; margin-top: -10px"><strong>กองพัฒนาแหล่งน้ำขนาดกลาง กรมชลประทาน</strong></h2>
+            <h1 class="col s12" style="color: #730073; font-size: 60px; margin-top: -10px"><strong>กระทรวงเกษตรและสหกรณ์</strong></h1>
         </div>
     </div>
 {{--</div>--}}
@@ -32,7 +34,7 @@
 <footer style="position: fixed; bottom: 0px; width: 100%" class="blue lighten-2">
     <div class="container">
             <div class="col l6 s12">
-                <p class="center grey-text text-lighten-1">Copyright © CS THAI GROUP 2016 All rights reserved</p>
+                <p class="center grey-text text-lighten-1">Copyright © CS Development Team 2016 All rights reserved</p>
             </div>
     </div>
 </footer>
