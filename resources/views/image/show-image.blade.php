@@ -3,8 +3,6 @@
 
 @section('content')
 
-    <p>{{Session::token()}}</p>
-    <p>{{ csrf_token() }}</p>
     <div class="row">
         @if($project=='maeon')
             <h4 class="col s12 text-lighten-2 blue-text">โครงการอ่างเก็บน้ำแม่อ้อน</h4>
