@@ -8,11 +8,9 @@
     <link href="{!! asset('css/lightbox.css') !!}" rel="stylesheet" type="text/css">
 
 
-    {{--test--}}
 
 </head>
 <body>
-{{--hhhh--}}
 {{--<div class="container" style="background-color: #bce8f1">--}}
     <div class="row">
         <img class="col s2" src="{!! asset('images/logo_water.jpg') !!}" style="max-width: 180px">
