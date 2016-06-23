@@ -1,7 +1,7 @@
 
 <nav>
     <div class="nav-wrapper red darken-1">
-        <a href="#" class="brand-logo center">CS THAI GROUP</a>
+        <a href="#" class="brand-logo center">สำนักงานก่อสร้างชลประทานที่ ๒</a>
         <ul class="left hide-on-med-and-down">
             <li><a href="/admin/images">MANAGE IMAGE<i class="material-icons right">perm_media</i></a></li>
             <li><a href="/admin/videos">MANAGE VIDEO<i class="material-icons right">movie</i></a></li>

@@ -16,7 +16,7 @@
             </div>
         @endif
         <div class="text-center">
-            <h3>ADMINISTRATION</h3>
+            <h3>ADMINISTRATOR SECTION</h3>
         </div>
         <form class="col s6 center" role="form" action="/login" method="post">
             <input type="hidden" name="_token" value="{{ csrf_token() }}">

@@ -22,7 +22,7 @@
 <footer style="position: fixed; bottom: 0px; width: 100%" class="red darken-2">
     <div class="container">
         <div class="col l6 s12">
-            <p class="center grey-text text-lighten-1">Copyright © CS THAI GROUP 2016 All rights reserved</p>
+            <p class="center grey-text text-lighten-1">Copyright © CS DEVELOPMENT TEAM 2016 All rights reserved</p>
         </div>
     </div>
 </footer>

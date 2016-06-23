@@ -7,7 +7,7 @@
     <link href="{!! asset('css/materialize/css/materialize.min.css') !!}" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="{!! asset('js/jquery.js') !!}"></script>
     <script type="text/javascript" src="{!! asset('css/materialize/js/materialize.js') !!}"></script>
-
+    <title>สำนักงานก่อสร้างชลประทานที่ ๒</title>
 </head>
 <body>
 
@@ -24,8 +24,8 @@
     </div>
     <div style="padding-top: 10px;" class="col s12 center">
         <h5>ฝ่ายก่อสร้างที่ ๒ สำนักงานก่อสร้างชลประทานที่ ๒</h5>
-        <h3>กองพัฒนาแหล่งน้ำขนาดกลาง กรมชลประทาน</h3>
-        <h1><strong>กระทรวงเกษตรและสหกรณ์</strong></h1>
+        <h4>กองพัฒนาแหล่งน้ำขนาดกลาง กรมชลประทาน</h4>
+        <h3><strong>กระทรวงเกษตรและสหกรณ์</strong></h3>
     </div>
 </div>
 <div style="height: 5em">

@@ -8,7 +8,7 @@
         <div class="col s6">
             <div class="card">
                 <div class="card-image">
-                    <h2 class="red-text text-lighten-1">Mae On Project</h2>
+                    <h2 class="red-text text-lighten-1">MaeOn Project</h2>
                 </div>
                 <div class="card-content">
                     <p> {{count($images)}} images in this project</p>
@@ -23,7 +23,7 @@
         <div class="col s6">
             <div class="card">
                 <div class="card-image">
-                    <h2 class="red-text text-lighten-1">Mae Rim Project</h2>
+                    <h2 class="red-text text-lighten-1">MaePrik Project</h2>
                 </div>
                 <div class="card-content">
                     <p> {{count($images)}} images in this project</p>

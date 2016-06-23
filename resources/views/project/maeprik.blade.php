@@ -11,8 +11,8 @@
                     <img class="center" style="max-width: 800px;" src="{!! asset('images/maeprik_content2.jpg') !!}" width="auto">
                 </div>
             </div>
-            <a class="waves-effect waves-light btn blue lighten-3" href="/project/maeon/images/all">WATCH IMAGES<i class="material-icons right">perm_media</i></a></a>
-            <a class="waves-effect waves-light btn blue lighten-3" href="/project/maeon/videos/all">WATCH VIDEOS<i class="material-icons right">movie</i></a></a>
+            <a class="waves-effect waves-light btn blue lighten-3" href="/project/maeprik/images/all">WATCH IMAGES<i class="material-icons right">perm_media</i></a></a>
+            <a class="waves-effect waves-light btn blue lighten-3" href="/project/maeprik/videos/all">WATCH VIDEOS<i class="material-icons right">movie</i></a></a>
         </div>
 
         <div class="col s12 m6">

@@ -6,7 +6,7 @@
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="{!! asset('css/materialize/css/materialize.min.css') !!}" rel="stylesheet" type="text/css">
     <link href="{!! asset('css/lightbox.css') !!}" rel="stylesheet" type="text/css">
-
+    <title>สำนักงานก่อสร้างชลประทานที่ ๒</title>
 
 
 </head>
